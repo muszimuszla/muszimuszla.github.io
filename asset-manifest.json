@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb831218.chunk.css",
+    "main.css": "/static/css/main.942f32c6.chunk.css",
     "main.js": "/static/js/main.19da5b7a.chunk.js",
     "main.js.map": "/static/js/main.19da5b7a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.07861f66.js",
@@ -9,10 +9,10 @@
     "static/js/2.f88e5950.chunk.js": "/static/js/2.f88e5950.chunk.js",
     "static/js/2.f88e5950.chunk.js.map": "/static/js/2.f88e5950.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7cda03ce2e57b826c7d2aa0774a82659.js": "/precache-manifest.7cda03ce2e57b826c7d2aa0774a82659.js",
+    "precache-manifest.bf1647e295c02a0e6cbbedc982b8bebc.js": "/precache-manifest.bf1647e295c02a0e6cbbedc982b8bebc.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.510409cd.chunk.css.map": "/static/css/2.510409cd.chunk.css.map",
-    "static/css/main.cb831218.chunk.css.map": "/static/css/main.cb831218.chunk.css.map",
+    "static/css/main.942f32c6.chunk.css.map": "/static/css/main.942f32c6.chunk.css.map",
     "static/media/also.png": "/static/media/also.67a7aed0.png",
     "static/media/Pokedex.css": "/static/media/green_screen_cross_2.cb708758.PNG",
     "static/media/beige_button_back.PNG": "/static/media/beige_button_back.bc192b0d.PNG",
@@ -43,7 +43,7 @@
     "static/js/runtime-main.07861f66.js",
     "static/css/2.510409cd.chunk.css",
     "static/js/2.f88e5950.chunk.js",
-    "static/css/main.cb831218.chunk.css",
+    "static/css/main.942f32c6.chunk.css",
     "static/js/main.19da5b7a.chunk.js"
   ]
 }
