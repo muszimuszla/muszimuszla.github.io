@@ -24,7 +24,7 @@ export const NavigationWrapper = styled.div`
 `;
 
 export const Navigation = styled.div`
-  height: 80px;
+  height: 100px;
   max-width: 1000px;
   margin: 0 auto;
   display: flex;
@@ -42,7 +42,15 @@ export const Navigation = styled.div`
 
 export const Logo = styled.div`
   ${(props) => `
+  white-space: nowrap;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100px;
   color: ${props.theme.font.color.secondary};
+  h1, h3{
+    margin: 0;
+  }
 `}
 `;
 

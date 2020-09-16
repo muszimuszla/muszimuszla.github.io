@@ -74,6 +74,7 @@ export default function Menu() {
       <Navigation>
         <Logo onClick={() => scroll.scrollToTop()}>
           <h1>muszimuszla</h1>
+          <h3>Magdalena Sułkowska</h3>
         </Logo>
         <MenuButton onClick={handleClick}>
           <Lines>
