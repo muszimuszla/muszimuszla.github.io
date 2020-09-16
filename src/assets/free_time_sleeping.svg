@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 572 581" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-131.031,-88.2802)">
+        <g id="sleeping" transform="matrix(1,0,0,1,6.30454,-33.901)">
+            <g transform="matrix(1,0,0,1,10,307)">
+                <text x="103.026px" y="395.181px" style="font-family:'RubikMonoOne-Regular', 'Rubik Mono One';font-size:150px;fill:rgb(254,143,140);">z</text>
+            </g>
+            <g transform="matrix(1,0,0,1,134.25,182)">
+                <text x="103.026px" y="395.181px" style="font-family:'RubikMonoOne-Regular', 'Rubik Mono One';font-size:250px;fill:rgb(254,160,157);">z</text>
+            </g>
+            <g transform="matrix(1,0,0,1,322,-28)">
+                <text x="103.026px" y="395.181px" style="font-family:'RubikMonoOne-Regular', 'Rubik Mono One';font-size:350px;fill:rgb(254,180,178);">z</text>
+            </g>
+        </g>
+    </g>
+</svg>

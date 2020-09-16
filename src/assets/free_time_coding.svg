@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 611 533" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-111.631,-112.28)">
+        <g id="coding" transform="matrix(1,0,0,0.917241,2.05675,40.1973)">
+            <g transform="matrix(5.32587e-17,-1.11538,0.753165,4.11457e-17,-59.5766,838.804)">
+                <path d="M161.574,478.587L421.574,224.587L681.574,478.587C681.574,478.587 681.574,463.83 681.574,561.83L421.574,307.83L161.574,561.83L161.574,478.587Z" style="fill:rgb(254,148,146);"/>
+                <clipPath id="_clip1">
+                    <path d="M161.574,478.587L421.574,224.587L681.574,478.587C681.574,478.587 681.574,463.83 681.574,561.83L421.574,307.83L161.574,561.83L161.574,478.587Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <g transform="matrix(4.8979e-17,1.32773,-0.977444,6.91182e-17,791.322,76.3708)">
+                        <rect x="54.352" y="56.163" width="324" height="322.667" style="fill:rgb(254,164,162);"/>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(-5.32587e-17,-1.11538,-0.753165,4.11457e-17,888.725,838.804)">
+                <path d="M161.574,478.587L421.574,224.587L681.574,478.587C681.574,478.587 681.574,463.83 681.574,561.83L421.574,307.83L161.574,561.83L161.574,478.587Z" style="fill:rgb(254,141,138);"/>
+                <clipPath id="_clip2">
+                    <path d="M161.574,478.587L421.574,224.587L681.574,478.587C681.574,478.587 681.574,463.83 681.574,561.83L421.574,307.83L161.574,561.83L161.574,478.587Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip2)">
+                    <g transform="matrix(-4.8979e-17,-1.32773,-0.977444,6.91182e-17,791.322,1182.72)">
+                        <rect x="447.685" y="377.496" width="326.667" height="309.333" style="fill:rgb(254,126,123);"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
