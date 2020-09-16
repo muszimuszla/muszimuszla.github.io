@@ -21,7 +21,7 @@ export const InterestsWrapper = styled.div`
   align-items: center;
   justify-content: space-between;
 
-  @media ${(props) => props.theme.breakpoints.small}{
+  @media ${(props) => props.theme.breakpoints.medium}{
     flex-direction: column;
   }
 `;

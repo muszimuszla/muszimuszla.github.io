@@ -1,7 +1,9 @@
 import styled from "styled-components";
 import { Link } from "react-scroll";
 
+
 export const StyledLink = styled(Link)`
+  cursor: pointer;
   @media ${(props) => props.theme.breakpoints.small} {
     margin: ${(props) => props.theme.spacing * 2}px 0;
   }
@@ -42,11 +44,12 @@ export const Navigation = styled.div`
 
 export const Logo = styled.div`
   ${(props) => `
+  cursor: pointer;
   white-space: nowrap;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
-  width: 100px;
+  text-align: left;
+  padding-right: ${props.theme.spacing}px;
   color: ${props.theme.font.color.secondary};
   h1, h3{
     margin: 0;
@@ -96,7 +99,7 @@ export const Line = styled.span<{ isMenuActive?: boolean }>`
   width: 100%;
   height: 0.3rem;
   background-color: ${(props) =>
-    props.isMenuActive ? props.theme.font.color.secondary : "transparent"};
+    props.isMenuActive ? "transparent" : props.theme.font.color.secondary};
   position: absolute;
   border-radius: 3px;
   top: 50%;
@@ -116,32 +119,31 @@ export const Line = styled.span<{ isMenuActive?: boolean }>`
 &:before {
   top: -10px;
   transform: ${(props) =>
-    props.isMenuActive ? "none" : `translateY(10px) rotate(-45deg)`};
+    props.isMenuActive ?  `translateY(10px) rotate(-45deg)` : "none"};
     transition: transform .2s  ease-in-out;
 }
 &:after {
   top: +10px;
      transform: ${(props) =>
-       props.isMenuActive ? "none" : `translateY(-10px) rotate(45deg)`};
+       props.isMenuActive ?  `translateY(-10px) rotate(45deg)` : "none"};
        transition: transform .2s  ease-in-out;
   }
 }
 `;
 
 export const List = styled.div<{ isMenuActive?: boolean }>`
+  transform: translateX(${props => props.isMenuActive ? '0' : '100%'});
+  transition: all 750ms ease;
   position: absolute;
   top: 60px;
   right: 0px;
   padding: 10px 0;
-  width: 250px;
+  text-align: center;
+  width: 100%;
   background-color: ${(props) => props.theme.color.menuBackground};
-  opacity: ${(props) => (props.isMenuActive ? `0` : `1`)};
-  display: ${(props) => (props.isMenuActive ? `none` : `unset`)};
+
   @media (min-width: 900px) {
     display: none;
-  }
-  @media (max-width: 420px) {
-    width: 100%;
   }
   ul {
     padding-inline-start: 0px;

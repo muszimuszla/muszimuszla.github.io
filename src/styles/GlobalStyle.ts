@@ -107,7 +107,6 @@ export const TextField = styled.div<{ isLong?: boolean; isLeft?: boolean }>`
   flex-direction: column;
   align-items: start;
   justify-content: center;
-  
 
   @media ${props.theme.breakpoints.small}{
   width: 90%;
