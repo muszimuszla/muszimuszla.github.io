@@ -12,8 +12,8 @@ export default function SayHi() {
         <TextField>
           <h3>&emsp;&#123;&ensp;(&ensp;interested&ensp;||&ensp;wantToTalk&ensp;)&ensp;&&</h3>
           <SocialMediaWrapper>
-            <SocialMediaLink href="https://github.com/muszimuszla">
-              <h1>Github</h1>
+            <SocialMediaLink href="https://www.linkedin.com/in/magdalena-su%C5%82kowska-b3091a1b7/">
+              <h1>LinkedIn</h1>
             </SocialMediaLink>
             <SocialMediaLink href="https://www.instagram.com/muszimuszla/">
               <h1>Instagram</h1>

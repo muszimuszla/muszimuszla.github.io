@@ -12,17 +12,17 @@ export default function Work() {
           <TextField>
             <h1>My everyday work is based on</h1>
             <TypingField>
-                  {/* <h3>js</h3> */}
                   <TechnologyText>typescript</TechnologyText>
                   <TechnologyText>react</TechnologyText>
                   <TechnologyText>styled-components</TechnologyText>
+                  <TechnologyText>sass</TechnologyText>
+                  <TechnologyText>REST</TechnologyText>
                   <TechnologyText>graphQL</TechnologyText>
+                  <TechnologyText>mobx</TechnologyText>
+                  <TechnologyText>Redux</TechnologyText>
                   <TechnologyText>affinity designer</TechnologyText>
-                  {/* <h3>css</h3> */}
-                  <h3>sass</h3>
-                  <h3>mobx</h3>
-                  <h3>figma</h3>
-                  <h3>...</h3>
+                  <TechnologyText>figma</TechnologyText>
+                  <TechnologyText>...</TechnologyText>
             </TypingField>
           </TextField>
         </Wrapper>
